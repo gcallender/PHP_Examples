@@ -1,0 +1,50 @@
+######################################
+##########   Guia de PHP    ##########
+######################################
+
+#####################################################
+--- Instalación ---
+
+-> Instalar Atom
+https://atom.io/
+
+-> Instalar XAMPP
+https://www.apachefriends.org/es/index.html
+
+
+#####################################################
+--- Instalación de Paquetes en Atom ---
+
+-> Install packages
+1.- emmet
+2.- linter-php
+3.- php-hyperclick
+4.- minimap
+5.- autoclose-html
+6.- pigments
+7.- atom-beautify
+8.- highlight-selected
+
+// Paquete para metodos __set y __get en OOP:
+-> Install packages
+1.- php-getters-setters
+
+
+#####################################################
+--- Operacion de APACHE en Windows ---
+
+-> Para poder ejecutar "localhost" en Windows, crear 
+directorio (carpeta) en:
+C:\xampp\htdocs\<folder_name>
+
+-> Para visualizar las paginas en los navegadores, 
+la direccion es:
+localhost\<folder_name>
+
+
+
+
+
+
+
+
