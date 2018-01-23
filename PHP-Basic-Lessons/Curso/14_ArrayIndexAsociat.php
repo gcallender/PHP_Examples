@@ -17,6 +17,11 @@ for ($i = 0; $i < count($arrayIndexado); $i++) {
     El valor de \$arrayIndexado($i) es: $arrayIndexado[$i]
     </pre>";
 }
+// Agregar valor a array Indexado
+echo "<pre>
+Se agrega un nuevo valor a \$arrayIndexado.
+</pre>";
+$arrayIndexado[] = "newData";
 foreach ($arrayIndexado as $key => $value) {
     echo "<pre>
     Clave: $key ----- Valor: $value
